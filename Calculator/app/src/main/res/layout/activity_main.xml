@@ -29,29 +29,29 @@
         android:orientation="horizontal">
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="7"
             android:id="@+id/Num7Btn"
             android:onClick="Num7BtnClick"/>
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="8"
             android:id="@+id/Num8Btn"
             android:onClick="Num8BtnClick" />
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="9"
             android:id="@+id/Num9Btn"
             android:onClick="Num9BtnClick" />
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="/"
             android:id="@+id/DivideBtn"
             android:onClick="DivideBtnClick" />
@@ -66,29 +66,29 @@
         android:orientation="horizontal">
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="4"
             android:id="@+id/Num4Btn"
             android:onClick="Num4BtnClick" />
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="5"
             android:id="@+id/Num5Btn"
             android:onClick="Num5BtnClick"/>
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="6"
             android:id="@+id/Num6Btn"
             android:onClick="Num6BtnClick" />
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="+"
             android:id="@+id/AdditionBtn"
             android:onClick="AdditionBtnClick" />
@@ -103,29 +103,29 @@
         android:orientation="horizontal">
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="1"
             android:id="@+id/Num1Btn"
             android:onClick="Num1BtnClick"/>
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="2"
             android:id="@+id/Num2Btn"
             android:onClick="Num2BtnClick"/>
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="3"
             android:id="@+id/Num3Btn"
             android:onClick="Num3BtnClick"/>
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="-"
             android:id="@+id/SubtractionBtn"
             android:onClick="SubtractionBtnClick"/>
@@ -140,30 +140,30 @@
         android:orientation="horizontal">
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="C"
             android:layout_weight="4"
             android:id="@+id/ClearBtn"
             android:onClick="ClearBtnClick"/>
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="0"
             android:id="@+id/Num0Btn"
             android:onClick="Num0BtnClick"/>
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="="
             android:id="@+id/EqualsBtn"
             android:onClick="EqualsBtnClick" />
 
         <Button
-            android:layout_width="88dp"
-            android:layout_height="88dp"
+            android:layout_width="95dp"
+            android:layout_height="95dp"
             android:text="*"
             android:id="@+id/MultiplyBtn"
             android:onClick="MultiplyBtnClick" />
